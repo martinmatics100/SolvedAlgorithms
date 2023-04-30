@@ -6,7 +6,7 @@ namespace Printing_Prime_Numbers
     {
         static void Main(string[] args)
         {
-            int nums = 5000;
+            int nums = 500;
             for (int i = 2; i < nums; i++) 
             {
                 bool isPrime = true;
