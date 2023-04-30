@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\bin\Debug\net6.0\GPAcalculator.exe
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\bin\Debug\net6.0\GPAcalculator.deps.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\bin\Debug\net6.0\GPAcalculator.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\bin\Debug\net6.0\GPAcalculator.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\bin\Debug\net6.0\GPAcalculator.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net6.0\GPAcalculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net6.0\GPAcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net6.0\GPAcalculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net6.0\GPAcalculator.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net6.0\GPAcalculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net6.0\GPAcalculator.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net6.0\refint\GPAcalculator.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net6.0\GPAcalculator.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net6.0\GPAcalculator.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net6.0\ref\GPAcalculator.dll
