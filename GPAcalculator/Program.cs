@@ -6,67 +6,73 @@
         {
             Console.WriteLine("You\'re welcome to my GPA Calculator");
 
-            // user should iput the number of courses taken
-            Console.WriteLine("input the number of course taken");
-            int no_Of_Courses = int.Parse(Console.ReadLine());
-
-            // totalGradeUnit and totalWeightPoint are all initialized that is = 0
+            // variable initialization
+            int totalCourseUnit = 0;
             int totalGradeUnit = 0;
-            double totalWeightPoint = 0;
+            int totalWeightPoint = 0;
 
-            //looping through the courses and requesting user to input course grade and grade unit.
-            for (int i = 0; i <= no_Of_Courses; i++)
+            // table header
+            Console.WriteLine("|-----------------------|----------------|-----------|---------------|---------------|----------------------| ");
+            Console.WriteLine("|    COURSES AND CODE   |    COURSE UNIT |   GRADE   |   GRADE-UNIT  |   WEIGHT-pt.  |   REMARK             | ");
+            Console.WriteLine("|-----------------------|----------------|-----------|---------------|---------------|----------------------| ");
+            Console.WriteLine("|        MTH101         |----------------|-----------|---------------|---------------|----------------------| ");
+            Console.WriteLine("|        GS101          |----------------|-----------|---------------|---------------|----------------------| ");
+            Console.WriteLine("|        NET101         |----------------|-----------|---------------|---------------|----------------------| ");
+            Console.WriteLine("|        C#101          |----------------|-----------|---------------|---------------|----------------------| ");
+            Console.WriteLine("|        HC101          |----------------|-----------|---------------|---------------|----------------------| ");
+
+            // adding course data's to the table
+
+            AddCourseToTable("MTH101", 5, "B", 4, ref totalCourseUnit, ref totalGradeUnit, ref totalWeightPoint);
+            AddCourseToTable("GS101", 3, "A", 5, ref totalCourseUnit, ref totalGradeUnit, ref totalWeightPoint);
+            AddCourseToTable("NET101", 5, "C", 3, ref totalCourseUnit, ref totalGradeUnit, ref totalWeightPoint);
+            AddCourseToTable("C#101", 5, "B", 4, ref totalCourseUnit, ref totalGradeUnit, ref totalWeightPoint);
+            AddCourseToTable("HC101", 3, "F", 0, ref totalCourseUnit, ref totalGradeUnit, ref totalWeightPoint);
+
+            // total footer
+           
+            // calculate and output the GPA
+
+            double gpa = (double)totalWeightPoint / totalGradeUnit;
+            Console.WriteLine($"\nTotal Course Unit Registered is {totalCourseUnit}");
+            Console.WriteLine($"\nTotal Course Unit Passed is {totalGradeUnit}");
+            Console.WriteLine($"\nTotal Weight Point is {totalWeightPoint}");
+            Console.WriteLine($"\nYour GPA is = {gpa:F2} to 2 decimal places.");
+        }
+        static void AddCourseToTable(string courseCode, int courseUnit, string grade, int gradeUnit, ref int totalCourseUnit, ref int totalGradeUnit, ref int totalWeightPoint)
+        {
+            int weightPoint = gradeUnit * courseUnit;
+            totalCourseUnit += courseUnit;
+
+            if (grade != "F")
             {
-                Console.WriteLine("input your course grade and grade points for course " +  i + ":");
-                Console.Write("Course grade (A,B,C,D,E,F): ");
-                string courseGrade = Console.ReadLine();
-                Console.Write("course Unit: ");
-                int courseUnit = int.Parse(Console.ReadLine());
+                totalGradeUnit += courseUnit;
+                totalWeightPoint += weightPoint;
+            }
+            string remark = getRemark(grade);
+            Console.WriteLine($"|   {courseCode, - 14}    |   {courseUnit, - 13}    |   {grade, - 5}) |   {gradeUnit, - 11} |   {weightPoint, - 14}   |   {remark,--15}   |");
 
-                //calculating grade point based on course grade
-                double weightPoint = 0;
-                switch (courseGrade)
+            static string GetRemark(string grade)
+            {
+                switch (grade)
                 {
                     case "A":
-                        weightPoint = 5.0;
-                        break;
+                        return "Excellent";
                     case "B":
-                        weightPoint = 4.0;
-                        break;
+                        return "Very Good";
                     case "C":
-                        weightPoint = 3.0;
-                        break;
+                        return "Good";
                     case "D":
-                        weightPoint = 2.0;
-                        break;
                     case "E":
-                        weightPoint = 1.0;
-                        break;
-                    case "F":
-                        weightPoint = 0.0;
-                        break;
-                        Console.WriteLine("invalid input. Please input A,B,C,D,E or F. ");
-                        i--; // decreement i to run current iteration again
-                        continue; //skip the remaining current iteration
-
-                        // add to total grade unit and weight points
-                        totalCourseUnit += courseUnit;
-                        totalWeightPoint += weightPoint * courseUnit;
-
-                        // calculate GPA and display result.
-
-                        double gpa = totalWeightPoint / courseUnit;
-                        Console.WriteLine("Your GPA is " + gpa.ToString(F2));
-
-                        Console.WriteLine("press any key to exit. ");
-                        Console.ReadKey();
-
+                        return "Fair";
+                    default:
+                        return "Fail";
 
 
 
                 }
-
             }
         }
+            
     }
 }
