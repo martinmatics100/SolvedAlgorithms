@@ -1,0 +1,5 @@
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net7.0\GPAcalculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net7.0\GPAcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net7.0\GPAcalculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net7.0\GPAcalculator.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPAcalculator\obj\Debug\net7.0\GPAcalculator.csproj.CoreCompileInputs.cache
