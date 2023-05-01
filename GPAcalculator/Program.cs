@@ -24,6 +24,47 @@
                 int courseUnit = int.Parse(Console.ReadLine());
 
                 //calculating grade point based on course grade
+                double weightPoint = 0;
+                switch (courseGrade)
+                {
+                    case "A":
+                        weightPoint = 5.0;
+                        break;
+                    case "B":
+                        weightPoint = 4.0;
+                        break;
+                    case "C":
+                        weightPoint = 3.0;
+                        break;
+                    case "D":
+                        weightPoint = 2.0;
+                        break;
+                    case "E":
+                        weightPoint = 1.0;
+                        break;
+                    case "F":
+                        weightPoint = 0.0;
+                        break;
+                        Console.WriteLine("invalid input. Please input A,B,C,D,E or F. ");
+                        i--; // decreement i to run current iteration again
+                        continue; //skip the remaining current iteration
+
+                        // add to total grade unit and weight points
+                        totalCourseUnit += courseUnit;
+                        totalWeightPoint += weightPoint * courseUnit;
+
+                        // calculate GPA and display result.
+
+                        double gpa = totalWeightPoint / courseUnit;
+                        Console.WriteLine("Your GPA is " + gpa.ToString(F2));
+
+                        Console.WriteLine("press any key to exit. ");
+                        Console.ReadKey();
+
+
+
+
+                }
 
             }
         }
