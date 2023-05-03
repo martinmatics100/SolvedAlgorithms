@@ -35,7 +35,7 @@ namespace GPACalculator
                 int weightPoint = courseUnits[i] * gradeUnits[i];
                 Console.WriteLine($"| {courseCodes[i],-15} | {courseUnits[i],-13} | {grades[i],-7} | {gradeUnits[i],-12} | {weightPoint,-12} | {remark,-10}| ");
             }
-            Console.WriteLine("|----------------|----------------|---------|--------------|--------------|-----------| ");
+            Console.WriteLine("|-----------------|---------------|---------|--------------|--------------|-----------| ");
 
             // Display summary
             Console.WriteLine($"\nTotal Course Unit Registered is {totalGradeUnits}");
