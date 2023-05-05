@@ -21,7 +21,7 @@ namespace Printing_Prime_Numbers
                 }
                 if (isPrime)
                 {
-                    Console.WriteLine("{0} ", i);
+                    Console.WriteLine("{0", i);
                 }
             }
 

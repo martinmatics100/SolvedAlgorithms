@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\bin\Debug\net7.0\ArrayMultiplication.exe
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\bin\Debug\net7.0\ArrayMultiplication.deps.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\bin\Debug\net7.0\ArrayMultiplication.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\bin\Debug\net7.0\ArrayMultiplication.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\bin\Debug\net7.0\ArrayMultiplication.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\obj\Debug\net7.0\ArrayMultiplication.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\obj\Debug\net7.0\ArrayMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\obj\Debug\net7.0\ArrayMultiplication.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\obj\Debug\net7.0\ArrayMultiplication.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\obj\Debug\net7.0\ArrayMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\obj\Debug\net7.0\ArrayMultiplication.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\obj\Debug\net7.0\refint\ArrayMultiplication.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\obj\Debug\net7.0\ArrayMultiplication.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\obj\Debug\net7.0\ArrayMultiplication.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ArrayMultiplication\obj\Debug\net7.0\ref\ArrayMultiplication.dll
