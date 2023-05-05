@@ -7,7 +7,7 @@ namespace ArrayMultiplication
         static void Main(string[] args)
         {
             // declare an array of numbers
-            int[] arr = { 2, 5, 6, 9,10 };
+            int[] arr = { 2, 5, 6, 9,10};
             int product = 1; // initializing the product to be 1
 
             //looping through the array and multiplying each elememt with the product variable
