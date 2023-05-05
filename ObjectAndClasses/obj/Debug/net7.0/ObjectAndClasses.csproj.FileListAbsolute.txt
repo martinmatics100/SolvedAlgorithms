@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\bin\Debug\net7.0\ObjectAndClasses.exe
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\bin\Debug\net7.0\ObjectAndClasses.deps.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\bin\Debug\net7.0\ObjectAndClasses.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\bin\Debug\net7.0\ObjectAndClasses.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\bin\Debug\net7.0\ObjectAndClasses.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\obj\Debug\net7.0\ObjectAndClasses.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\obj\Debug\net7.0\ObjectAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\obj\Debug\net7.0\ObjectAndClasses.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\obj\Debug\net7.0\ObjectAndClasses.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\obj\Debug\net7.0\ObjectAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\obj\Debug\net7.0\ObjectAndClasses.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\obj\Debug\net7.0\refint\ObjectAndClasses.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\obj\Debug\net7.0\ObjectAndClasses.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\obj\Debug\net7.0\ObjectAndClasses.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ObjectAndClasses\obj\Debug\net7.0\ref\ObjectAndClasses.dll
