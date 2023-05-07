@@ -6,7 +6,7 @@ namespace GPACalculator
     {
         static void Main(string[] args)
         {
-            // course data definition
+            // Definition of course data's
             string[] courseCodes = { "MTH101", "GS101", "NET101", "C#101", "HC101" };
             int[] courseUnits = { 5, 3, 5, 5, 3 };
             string[] grades = { "B", "A", "C", "B", "F" };

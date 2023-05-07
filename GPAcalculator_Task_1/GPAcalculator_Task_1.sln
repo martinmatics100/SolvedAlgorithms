@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPAcalculator_Task_1", "GPAcalculator_Task_1.csproj", "{37000E75-CE89-4989-8465-87478BFD98EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37000E75-CE89-4989-8465-87478BFD98EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37000E75-CE89-4989-8465-87478BFD98EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37000E75-CE89-4989-8465-87478BFD98EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37000E75-CE89-4989-8465-87478BFD98EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {809283B6-E12A-4BF5-A74D-886545C13B24}
+	EndGlobalSection
+EndGlobal
