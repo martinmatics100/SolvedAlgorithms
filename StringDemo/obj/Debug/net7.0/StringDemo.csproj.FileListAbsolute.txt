@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\bin\Debug\net7.0\StringDemo.exe
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\bin\Debug\net7.0\StringDemo.deps.json
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\bin\Debug\net7.0\StringDemo.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\bin\Debug\net7.0\StringDemo.dll
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\bin\Debug\net7.0\StringDemo.pdb
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\obj\Debug\net7.0\StringDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\obj\Debug\net7.0\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\obj\Debug\net7.0\StringDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\obj\Debug\net7.0\StringDemo.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\obj\Debug\net7.0\StringDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\obj\Debug\net7.0\StringDemo.dll
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\obj\Debug\net7.0\refint\StringDemo.dll
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\obj\Debug\net7.0\StringDemo.pdb
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\obj\Debug\net7.0\StringDemo.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\test codes\StringDemo\obj\Debug\net7.0\ref\StringDemo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "My Task 1 (GPA CALCULATOR)/1.0.0": {
+        "runtime": {
+          "My Task 1 (GPA CALCULATOR).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "My Task 1 (GPA CALCULATOR)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

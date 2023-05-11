@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\bin\Debug\net7.0\My Task 1 (GPA CALCULATOR).exe
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\bin\Debug\net7.0\My Task 1 (GPA CALCULATOR).deps.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\bin\Debug\net7.0\My Task 1 (GPA CALCULATOR).runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\bin\Debug\net7.0\My Task 1 (GPA CALCULATOR).dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\bin\Debug\net7.0\My Task 1 (GPA CALCULATOR).pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\obj\Debug\net7.0\My Task 1 (GPA CALCULATOR).csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\obj\Debug\net7.0\My Task 1 (GPA CALCULATOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\obj\Debug\net7.0\My Task 1 (GPA CALCULATOR).AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\obj\Debug\net7.0\My Task 1 (GPA CALCULATOR).AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\obj\Debug\net7.0\My Task 1 (GPA CALCULATOR).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\obj\Debug\net7.0\My Task 1 (GPA CALCULATOR).dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\obj\Debug\net7.0\refint\My Task 1 (GPA CALCULATOR).dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\obj\Debug\net7.0\My Task 1 (GPA CALCULATOR).pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\obj\Debug\net7.0\My Task 1 (GPA CALCULATOR).genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My Task 1 (GPA CALCULATOR)\obj\Debug\net7.0\ref\My Task 1 (GPA CALCULATOR).dll

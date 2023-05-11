@@ -1,0 +1,167 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"name":"csharp"}]}}
+
+#!markdown
+
+ALGORITHM QUESTION 1. 
+Write a method that will search an array of strings for all strings that contain another string, ignoring capitalization. Then return an array of the found strings.
+
+The method takes two parameters, the query string and the array of strings to search, and returns an array.
+
+If the string isn't contained in any of the strings in the array, the method returns an array containing a single string: "Empty" (or Nothing in Haskell, or "None" in Python and C)
+
+Examples
+If the string to search for is "me", and the array to search is ["home", "milk", "Mercury", "fish"], the method should return ["home", "Mercury"].
+
+#!csharp
+
+public class Kata
+{
+  public static string[] WordSearch(string query, string[] seq)
+  {
+    //{"Adeniji", "Olumuyiwa", "Omoade", "Adenuga", "Adewale"}
+    //{"ade"} 
+    string[] result = new String[0];
+    foreach (string name in seq)
+      {
+      if(name.ToLower().Contains(query.ToLower()))
+      {
+        string[] newResult = new String[result.Length + 1];
+
+        Array.Copy(result, newResult,result.Length);
+        newResult[result.Length] = name;
+        result = newResult;
+      }
+    }
+    if (result.Length == 0)
+    {
+        result = new string[]{"Empty"};
+    }
+    return result;  
+  }
+}
+
+#!csharp
+
+Kata.WordSearch("ade", new[] {"Adeniji", "Alamade", "Martin", "Omoade", "Adenuga", "Adewale","ade", "Chukwuemeka"})
+
+#!csharp
+
+OTHER SOLUTIONS
+
+#!csharp
+
+using System.Text.RegularExpressions;
+using System.Collections.Generic;
+public class Kata
+{
+  public static string[] WordSearch(string query, string[] seq)
+  {
+    Regex rgx = new Regex(query, RegexOptions.IgnoreCase);
+    List <string> listOfMatches = new List<string>();
+    foreach (string i in seq)
+    {
+       if (rgx.IsMatch(i)) listOfMatches.Add(i);
+    }
+     return listOfMatches.Count == 0? new []{"Empty"}:listOfMatches.ToArray();
+  }
+}
+
+#!csharp
+
+Kata.WordSearch("ade", new[] {"Adeniji", "Alamade", "Martin", "Omoade", "Adenuga", "Adewale","ade", "Chukwuemeka"})
+
+#!csharp
+
+using System;
+using System.Linq;
+using System.Collections.Generic;
+public class Kata
+{
+  public static string[] WordSearch(string query, string[] seq)
+  {
+      List<string> queryFound = new List<string>();
+
+      for (int i = 0; i < seq.Length; i++)
+      {
+          if (seq[i].IndexOf(query, StringComparison.InvariantCultureIgnoreCase) >= 0)
+              queryFound.Add(seq[i]);
+      }
+      if(queryFound.Count == 0) queryFound.Add("Empty");
+      return queryFound.ToArray();
+  }
+}
+
+#!csharp
+
+Kata.WordSearch("ade", new[] {"Adeniji", "Alamade", "Martin", "Adenuga", "Adewale","ade", "Chukwuemeka"})
+
+#!markdown
+
+DESCRIPTION:
+Create a function that takes 2 integers in form of a string as an input, and outputs the sum (also as a string):
+
+Example: (Input1, Input2 -->Output)
+
+"4",  "5" --> "9"
+"34", "5" --> "39"
+"", "" --> "0"
+"2", "" --> "2"
+"-5", "3" --> "-2"
+Notes:
+
+If either input is an empty string, consider it as zero.
+
+Inputs and the expected output will never exceed the signed 32-bit integer limit (2^31 - 1)
+
+#!csharp
+
+using System;
+//using System.Linq;
+//namespace Solution
+  public static class Program
+  {
+    public static string StringsSum(string s1, string s2)
+    {
+      // Write your solution here.
+      int n1 = string.IsNullOrEmpty(s1) ? 0 : int.Parse(s1);
+      int n2 = string.IsNullOrEmpty(s2) ? 0 : int.Parse(s2);
+
+     int result =  n1 == 0 ? n2 : n2 == 0 ? n1 : n1 == 0 && n2 !> 0 ? 0 : n1+n2;
+     return Convert.ToString(result);
+      }
+    }
+
+#!csharp
+
+Program.StringsSum("", "")
+
+#!markdown
+
+OTHER SOLUTIONS
+
+#!csharp
+
+using System;
+//namespace Solution
+public static class Program
+  {
+    public static string StringsSum(string s1, string s2)
+    {
+      return Convert.ToString(
+			  (String.IsNullOrEmpty(s1) ? 0 : Convert.ToInt32(s1)) +
+			  (String.IsNullOrEmpty(s2) ? 0 : Convert.ToInt32(s2)));
+    }
+  }
+
+#!csharp
+
+//namespace Solution
+  public static class Program
+  {
+    public static string StringsSum(string s1, string s2)
+    {
+      return $"{(s1 == "" ? 0 : int.Parse(s1)) + (s2 == "" ? 0 : int.Parse(s2))}";
+    }
+  }
