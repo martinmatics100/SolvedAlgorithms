@@ -8,7 +8,7 @@ namespace GPA_Calc
     {
         static void Main(string[] args)
         {
-            string appMsg = "You're welcome to the GPA Calculator console app. " +
+            string appMsg = "YOU'RE WELCOME TO THE GPA CALCULATOR CONSOLE APP. " +
                 "\n To calculate your GPA, Enter your input as follows: " +
                 "\n 2. Course Code e.g MTH123, ENG103, PHY134, GEO111. etc. " +
                 "\n 3. Course Unit (0 - 9). " +
@@ -18,16 +18,16 @@ namespace GPA_Calc
 
             string numOfCourseErrMsg = $"Wrong input, Please enter a number: ";
 
-            string CourseCodeMsg = $"Invalid input: " +
+            string CourseCodeMsg =
                 $"\n 1. please NOTE the following: " +
-                $"\n 2. Course Code format MTH123, ENG103, PHY134, GEO111. etc:" +
-                $"\n 3. Course Code must not be more than six(6) characters: " +
+                $"\n 2. Course Code follows the format MTH123, ENG103, PHY134, GEO111. etc:" +
+                $"\n 3. Course Code must not be more than six(6) characters (three letters and three numbers): " +
                 $"\n 4. Course Code can't be empty: " +
                 $"\n 5. A Course Code can't be entered more than once";
 
             string courseUnitErrMsg = $"Invalid input: " +
                 $"\n please Note" +
-                $"\n Course Unit must be between the range (0 - 9)\n ";
+                $"\n Course Unit must be between the range (0 - 6)\n ";
 
             string courseScoreMsg = $"Invalid input: " +
                 $"please Note" +
