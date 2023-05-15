@@ -38,11 +38,9 @@ namespace GPA_Calc
             Console.WriteLine(numOfCourseMsg);
             string numOfCourse = Console.ReadLine();
 
-            /*Course[] courseArray = new Course[length];
-            bool input = true;
-            int counter = 0;*/
-            long length;
-            while (!long.TryParse(numOfCourse, out length) || length < 1 || length > 100)
+           
+            byte length;
+            while (!byte.TryParse(numOfCourse, out length) || length < 1 || length > 100)
             {
                 Console.WriteLine(numOfCourseErrMsg);
                 numOfCourse = Console.ReadLine();
@@ -101,6 +99,8 @@ namespace GPA_Calc
         }
     }
 
+    
+    
     class TableDisplay
     {
         public Course[] convertedGrades { get; set; }
@@ -171,6 +171,8 @@ namespace GPA_Calc
 
     }
 
+    
+    
     class Course
     {
         // Fields
