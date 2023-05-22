@@ -23,9 +23,9 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
 
         public Node head = default!;
         public Node tail = default!;
-        private int count;
+        private int size;
 
-        public int Count { get { return count; } }
+        public int Size { get { return size; } }
 
         public int Add(T item)
         {
@@ -42,8 +42,8 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
                 tail = newNode;
             }
 
-            count++;
-            return count;
+            size++;
+            return size;
         }
 
         public bool Remove(T item)
@@ -68,7 +68,7 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
                             tail = previous;
                     }
 
-                    count--;
+                    size--;
                     return true;
                 }
 

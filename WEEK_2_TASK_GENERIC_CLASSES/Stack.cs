@@ -17,7 +17,7 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
 
         public bool IsEmpty()
         {
-            return linkedList.Count == 0;
+            return linkedList.Size == 0;
         }
 
         public void Push(T item)
@@ -45,7 +45,7 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
 
         public int Size()
         {
-            return linkedList.Count;
+            return linkedList.Size;
         }
     }
 }
