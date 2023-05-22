@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\obj\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\obj\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\obj\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\obj\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\obj\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\bin\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.exe
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\bin\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.deps.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\bin\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\bin\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\bin\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\obj\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\obj\Debug\net7.0\refint\WEEK_2_TASK_GENERIC_CLASSES.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\obj\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\obj\Debug\net7.0\WEEK_2_TASK_GENERIC_CLASSES.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\WEEK_2_TASK_GENERIC_CLASSES\obj\Debug\net7.0\ref\WEEK_2_TASK_GENERIC_CLASSES.dll

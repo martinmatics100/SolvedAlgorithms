@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WEEK_2_TASK_GENERIC_CLASSES/1.0.0": {
+        "runtime": {
+          "WEEK_2_TASK_GENERIC_CLASSES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WEEK_2_TASK_GENERIC_CLASSES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
