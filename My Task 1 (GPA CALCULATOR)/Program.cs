@@ -39,13 +39,13 @@ namespace My_Task_1__GPA_CALCULATOR_
             Console.WriteLine();
             Console.WriteLine(appMsg);
             Console.WriteLine(numOfCourseMsg);
-            string numOfCourse = Console.ReadLine()!;
+            string numOfCourse = Console.ReadLine();
 
             long length;
             while (!long.TryParse(numOfCourse, out length) || length < 1 || length > 100)
             {
                 Console.WriteLine(numOfCourseErrMsg);
-                numOfCourse = Console.ReadLine()!;
+                numOfCourse = Console.ReadLine();
             }
 
             Course[] courseArray = new Course[length];
@@ -56,35 +56,35 @@ namespace My_Task_1__GPA_CALCULATOR_
                 for (int i = 0; i < courseArray.Length; i++)
                 {
                     Console.WriteLine($"Enter Course {i + 1} Code e.g MTH123, ENG103, PHY134, GEO111");
-                    String courseCodeInput = Console.ReadLine()!;
+                    String courseCodeInput = Console.ReadLine();
                     string courseCode;
 
-                    Validator check = new Validator(courseArray)!;
+                    Validator check = new Validator(courseArray);
 
-                    while (!check.Match(courseCodeInput!) || !check.Exist(courseCodeInput!) || check.Exist(courseCodeInput!.ToUpper()))
+                    while (!check.Match(courseCodeInput) || !check.Exist(courseCodeInput) || check.Exist(courseCodeInput.ToUpper()))
                     {
                         Console.WriteLine(CourseCodeMsg + $"Enter Course{i + 1} code: ");
-                        courseCodeInput = Console.ReadLine()!;
+                        courseCodeInput = Console.ReadLine();
                     }
 
                     courseCode = courseCodeInput.ToUpper();
                     Console.WriteLine($"Enter Course {i + 1} Unit within the range (0 - 9): ");
-                    string courseUnitInput = Console.ReadLine()!;
+                    string courseUnitInput = Console.ReadLine();
                     long courseUnit;
 
                     while (!long.TryParse(courseUnitInput, out courseUnit) ||  courseUnit < 0 || courseUnit > 9)
                     {
                         Console.WriteLine(courseUnitErrMsg + $"Enter Course {i + 1} Unit: ");
-                        courseUnitInput = Console.ReadLine()!;
+                        courseUnitInput = Console.ReadLine();
                     }
 
                     Console.WriteLine($"Course {1 + 1} Score between the range (0 - 100): ");
-                    string courseScoreInput = Console.ReadLine()!;
+                    string courseScoreInput = Console.ReadLine();
                     long courseScore;
                     while (!long.TryParse(courseScoreInput, out courseScore) || courseScore < 0 || courseScore > 100)
                     {
                         Console.WriteLine(courseScoreMsg + $"Enter Course {i + 1} score: ");
-                        courseScoreInput = Console.ReadLine()!;
+                        courseScoreInput = Console.ReadLine();
                     }
                     courseArray[i] = new Course(courseCode, courseUnit, courseScore);
                     counter ++;  
@@ -95,7 +95,7 @@ namespace My_Task_1__GPA_CALCULATOR_
                     input = false;
                 }
 
-                TableDisplay resultDisplay = new TableDisplay(courseArray)!;
+                TableDisplay resultDisplay = new TableDisplay(courseArray);
                 Console.WriteLine();
                 resultDisplay.Table();
             }

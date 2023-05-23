@@ -1,0 +1,30 @@
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\bin\Debug\net7.0\GPACalculator_Program_Task_One.exe
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\bin\Debug\net7.0\GPACalculator_Program_Task_One.deps.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\bin\Debug\net7.0\GPACalculator_Program_Task_One.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\bin\Debug\net7.0\GPACalculator_Program_Task_One.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\bin\Debug\net7.0\GPACalculator_Program_Task_One.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\obj\Debug\net7.0\refint\GPACalculator_Program_Task_One.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\GPACalculator_Program_Task_One\obj\Debug\net7.0\ref\GPACalculator_Program_Task_One.dll
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\bin\Debug\net7.0\GPACalculator_Program_Task_One.exe
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\bin\Debug\net7.0\GPACalculator_Program_Task_One.deps.json
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\bin\Debug\net7.0\GPACalculator_Program_Task_One.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\bin\Debug\net7.0\GPACalculator_Program_Task_One.dll
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\bin\Debug\net7.0\GPACalculator_Program_Task_One.pdb
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.dll
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\obj\Debug\net7.0\refint\GPACalculator_Program_Task_One.dll
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.pdb
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\obj\Debug\net7.0\GPACalculator_Program_Task_One.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\week-1-martinmatics100-main\GPACalculator_Program_Task_One\obj\Debug\net7.0\ref\GPACalculator_Program_Task_One.dll
