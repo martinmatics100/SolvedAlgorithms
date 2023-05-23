@@ -30,7 +30,7 @@
             Console.WriteLine("  Check: " + linkedList.Check(95)); // output == false
             Console.WriteLine();
 
-            Console.WriteLine("  Index: " + linkedList.Index(30));  // output == 2
+            Console.WriteLine("  Index: " + linkedList.Index(40));  // output == 3
             Console.WriteLine("  Index: " + linkedList.Index(85));  // output == -1
             Console.WriteLine();
             Console.WriteLine();
