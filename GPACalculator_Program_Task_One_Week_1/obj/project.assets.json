@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\week-1-martinmatics100-main\\GPACalculator_Program_Task_One\\GPACalculator_Program_Task_One.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\GPACalculator_Program_Task_One_Week_1\\GPACalculator_Program_Task_One.csproj",
       "projectName": "GPACalculator_Program_Task_One",
-      "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\week-1-martinmatics100-main\\GPACalculator_Program_Task_One\\GPACalculator_Program_Task_One.csproj",
+      "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\GPACalculator_Program_Task_One_Week_1\\GPACalculator_Program_Task_One.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\week-1-martinmatics100-main\\GPACalculator_Program_Task_One\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\GPACalculator_Program_Task_One_Week_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
