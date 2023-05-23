@@ -8,7 +8,7 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
 {
     public class Stack<T>
     {
-        private LinkedList<T> linkedList;
+        private readonly LinkedList<T> linkedList;
 
         public Stack()
         {

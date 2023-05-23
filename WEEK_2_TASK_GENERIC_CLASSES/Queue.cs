@@ -8,7 +8,7 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
 {
     internal class Queue<T>
     {
-        private LinkedList<T> linkedList;
+        private readonly LinkedList<T> linkedList;
 
         public Queue()
         {

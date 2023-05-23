@@ -19,9 +19,9 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
                 Data = data;
                 Next = null!;
             }
-        }
+        } 
 
-        public Node head = default!;
+        public Node head = default!; 
         public Node tail = default!;
         private int size;
 
@@ -29,7 +29,7 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
 
         public int Add(T item)
         {
-            Node newNode = new Node(item);
+            Node newNode = new Node(item)!;
 
             if (head == null)
             {
