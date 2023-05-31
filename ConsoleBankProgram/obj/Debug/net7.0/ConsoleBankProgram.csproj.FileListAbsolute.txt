@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\bin\Debug\net7.0\ConsoleBankProgram.exe
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\bin\Debug\net7.0\ConsoleBankProgram.deps.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\bin\Debug\net7.0\ConsoleBankProgram.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\bin\Debug\net7.0\ConsoleBankProgram.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\bin\Debug\net7.0\ConsoleBankProgram.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\obj\Debug\net7.0\ConsoleBankProgram.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\obj\Debug\net7.0\ConsoleBankProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\obj\Debug\net7.0\ConsoleBankProgram.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\obj\Debug\net7.0\ConsoleBankProgram.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\obj\Debug\net7.0\ConsoleBankProgram.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\obj\Debug\net7.0\ConsoleBankProgram.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\obj\Debug\net7.0\refint\ConsoleBankProgram.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\obj\Debug\net7.0\ConsoleBankProgram.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\obj\Debug\net7.0\ConsoleBankProgram.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\ConsoleBankProgram\obj\Debug\net7.0\ref\ConsoleBankProgram.dll

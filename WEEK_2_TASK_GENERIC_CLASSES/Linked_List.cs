@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace WEEK_2_TASK_GENERIC_CLASSES
 {
-    public class LinkedList<T>
+    public class LinkedList<T>  
     {
         public class Node
-        {
+        { 
 
             public T Data;
             public Node Next;
@@ -46,7 +46,7 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
             return size;
         }
 
-        public bool Remove(T item)
+        public bool Remove(T item) 
         {
             Node current = head;
             Node previous = null!;
@@ -110,6 +110,7 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
 
             return -1;
         }
+
     }
 }
 

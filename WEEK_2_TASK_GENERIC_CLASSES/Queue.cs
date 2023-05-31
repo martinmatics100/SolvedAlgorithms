@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace WEEK_2_TASK_GENERIC_CLASSES
-{
+{  
     internal class Queue<T>
     {
         private readonly LinkedList<T> linkedList;

@@ -27,7 +27,7 @@ namespace WEEK_2_TASK_GENERIC_CLASSES
 
         public T Pop()
         {
-            if (IsEmpty())
+              if (IsEmpty())
                 throw new InvalidOperationException("Stack is empty.");
 
             T item = linkedList.tail.Data;

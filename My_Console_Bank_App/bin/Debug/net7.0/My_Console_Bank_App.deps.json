@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "My_Console_Bank_App/1.0.0": {
+        "runtime": {
+          "My_Console_Bank_App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "My_Console_Bank_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

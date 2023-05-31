@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            LinkedList<int> linkedList = new LinkedList<int>();
+            LinkedList<int> linkedList = new LinkedList<int>(); 
 
             linkedList.Add(10);
             linkedList.Add(20);
@@ -12,6 +12,7 @@
             linkedList.Add(40);
             linkedList.Add(50);
             linkedList.Add(60);
+             
 
             Console.WriteLine();
             Console.WriteLine("  |--------------------|");
@@ -19,7 +20,7 @@
             Console.WriteLine("  |--------------------|");
             Console.WriteLine();
             Console.WriteLine("  List Size: " + linkedList.Add(70)); //output == 7
-            Console.WriteLine("  List Size: " + linkedList.Add(80)); //output == 8
+            Console.WriteLine("  List Size: " + linkedList.Add(80)); //output == 8  
             Console.WriteLine();
 
             Console.WriteLine("  Removed: " + linkedList.Remove(60)); //output == true
@@ -31,7 +32,7 @@
             Console.WriteLine();
 
             Console.WriteLine("  Index: " + linkedList.Index(40));  // output == 3
-            Console.WriteLine("  Index: " + linkedList.Index(85));  // output == -1
+               // output == -1
             Console.WriteLine();
             Console.WriteLine();
 
@@ -64,6 +65,8 @@
             Console.WriteLine();
 
             Console.WriteLine("  Returned last item added to the stack which is = " + stack.Peek()); // output == 60 because 70 has been removed by the pop method
+            Console.WriteLine();
+            Console.WriteLine("  Stack size = " + stack.Size());
             Console.WriteLine();
 
             Queue<int> queue = new Queue<int>();

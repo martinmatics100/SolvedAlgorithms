@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\bin\Debug\net7.0\My_Console_Bank_App.exe
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\bin\Debug\net7.0\My_Console_Bank_App.deps.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\bin\Debug\net7.0\My_Console_Bank_App.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\bin\Debug\net7.0\My_Console_Bank_App.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\bin\Debug\net7.0\My_Console_Bank_App.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\obj\Debug\net7.0\My_Console_Bank_App.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\obj\Debug\net7.0\My_Console_Bank_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\obj\Debug\net7.0\My_Console_Bank_App.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\obj\Debug\net7.0\My_Console_Bank_App.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\obj\Debug\net7.0\My_Console_Bank_App.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\obj\Debug\net7.0\My_Console_Bank_App.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\obj\Debug\net7.0\refint\My_Console_Bank_App.dll
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\obj\Debug\net7.0\My_Console_Bank_App.pdb
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\obj\Debug\net7.0\My_Console_Bank_App.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\My_Console_Bank_App\obj\Debug\net7.0\ref\My_Console_Bank_App.dll
