@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jLK9sYmJrB+7fQKq6JZn8x3gpVvK9TBu4wxx4ZtSkuQbqJjncHSG6LZhoxovpH7hin47bqm8Xy4FtISJF6Sofw==",
+  "dgSpecHash": "AH/FCBtFI0XzuIYyumqDnEE+FIT5x3YhqQIk0lL4I8o8yGyYbjcH5uXlpFmmYaUjlYDAJUXhvB4rLhMARw337w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\BANK-CONSOLE-APP\\BANK-CONSOLE-APP.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Week 5 Repo\\week-5-martinmatics100\\BankAppWeek5\\BANK-CONSOLE-APP\\BANK-CONSOLE-APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
