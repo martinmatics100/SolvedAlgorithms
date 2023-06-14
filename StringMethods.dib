@@ -1,0 +1,318 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"name":"csharp"}]}}
+
+#!markdown
+
+Certainly! Here's a comprehensive list of methods associated with strings in C#:
+
+1. Clone: Creates a shallow copy of the string object.
+
+2. Compare: Compares two strings and returns a value indicating their relative order.
+
+3. CompareOrdinal: Compares two strings using ordinal (binary) comparison.
+
+4. Concat: Concatenates multiple strings into a single string.
+
+5. Contains: Checks if a specified substring is present within the string.
+
+6. CopyTo: Copies a specified number of characters from a specified position in the string to a character array.
+
+7. EndsWith: Checks whether a string ends with a specified character or substring.
+
+8. Equals: Determines whether two string objects have the same value.
+
+9. GetEnumerator: Returns an enumerator that iterates through the string.
+
+10. GetHashCode: Returns the hash code for the string.
+
+11. GetType: Gets the Type of the current instance.
+
+12. GetTypeCode: Gets the TypeCode for the string.
+
+13. IndexOf: Returns the index of the first occurrence of a specified character or substring within the string.
+
+14. IndexOfAny: Returns the index of the first occurrence of any character from a specified array of characters within the string.
+
+15. Insert: Inserts a specified string at a specified index position within the string.
+
+16. Intern: Retrieves the system's reference to the specified string.
+
+17. IsInterned: Determines whether a string is interned.
+
+18. IsNormalized: Determines whether the string is in a normalized form.
+
+19. LastIndexOf: Returns the index of the last occurrence of a specified character or substring within the string.
+
+20. LastIndexOfAny: Returns the index of the last occurrence of any character from a specified array of characters within the string.
+
+21. Normalize: Returns a normalized form of the string.
+
+22. PadLeft: Returns a new string that is right-aligned within a specified total width by padding it on the left with a specified character.
+
+23. PadRight: Returns a new string that is left-aligned within a specified total width by padding it on the right with a specified character.
+
+24. Remove: Removes a specified number of characters from a specified position in the string.
+
+25. Replace: Replaces all occurrences of a specified character or substring with another character or substring.
+
+26. Split: Splits a string into an array of substrings based on a specified delimiter.
+
+27. StartsWith: Checks whether a string starts with a specified character or substring.
+
+28. Substring: Retrieves a substring from the string based on a specified starting index and optional length.
+
+29. ToCharArray: Copies the characters in the string to a character array.
+
+30. ToLower: Converts the string to lowercase.
+
+31. ToLowerInvariant: Converts the string to lowercase using the invariant culture.
+
+32. ToString: Returns the string itself.
+
+33. ToUpper: Converts the string to uppercase.
+
+34. ToUpperInvariant: Converts the string to uppercase using the invariant culture.
+
+35. Trim: Removes leading and trailing whitespace characters from the string.
+
+36. TrimEnd: Removes trailing whitespace characters from the string.
+
+37. TrimStart: Removes leading whitespace characters from the string.
+
+38. Equals: Determines whether two strings are equal.
+
+39. ReferenceEquals: Determines whether the specified object instances are the same instance.
+
+These are all the methods associated with strings in C#. Each method serves a different purpose and provides various ways to manipulate and work with strings in your code.
+
+#!markdown
+
+Certainly! Here are examples for each of the methods associated with strings in C#:
+
+Clone:
+
+string str = "Hello World";
+string clone = (string)str.Clone();
+
+Compare:
+
+Copy code
+string str1 = "apple";
+string str2 = "banana";
+int comparison = string.Compare(str1, str2);
+
+CompareOrdinal:
+
+Copy code
+string str1 = "apple";
+string str2 = "banana";
+int ordinalComparison = string.CompareOrdinal(str1, str2);
+
+Concat:
+
+Copy code
+string str1 = "Hello";
+string str2 = "World";
+string combined = string.Concat(str1, " ", str2);
+
+Contains:
+
+Copy code
+string str = "Hello World";
+bool contains = str.Contains("World");
+
+CopyTo:
+
+Copy code
+string str = "Hello World";
+char[] charArray = new char[5];
+str.CopyTo(6, charArray, 0, 5);
+
+EndsWith:
+
+Copy code
+string str = "Hello World";
+bool endsWithWorld = str.EndsWith("World");
+
+Equals:
+
+Copy code
+string str1 = "Hello";
+string str2 = "Hello";
+bool areEqual = str1.Equals(str2);
+
+GetEnumerator:
+
+Copy code
+string str = "Hello";
+IEnumerator<char> enumerator = str.GetEnumerator();
+while (enumerator.MoveNext())
+{
+    Console.WriteLine(enumerator.Current);
+}
+GetHashCode:
+csharp
+Copy code
+string str = "Hello";
+int hashCode = str.GetHashCode();
+GetType:
+csharp
+Copy code
+string str = "Hello";
+Type type = str.GetType();
+GetTypeCode:
+csharp
+Copy code
+string str = "Hello";
+TypeCode typeCode = Type.GetTypeCode(str.GetType());
+IndexOf:
+csharp
+Copy code
+string str = "Hello World";
+int index = str.IndexOf("World");
+IndexOfAny:
+csharp
+Copy code
+string str = "Hello World";
+char[] chars = { 'o', 'd' };
+int index = str.IndexOfAny(chars);
+Insert:
+csharp
+Copy code
+string str = "Hello";
+string inserted = str.Insert(5, " World");
+Intern:
+csharp
+Copy code
+string str = "Hello";
+string interned = string.Intern(str);
+IsInterned:
+csharp
+Copy code
+string str = "Hello";
+string interned = string.IsInterned(str);
+IsNormalized:
+csharp
+Copy code
+string str = "Möller";
+bool isNormalized = str.IsNormalized();
+LastIndexOf:
+csharp
+Copy code
+string str = "Hello World";
+int lastIndex = str.LastIndexOf("o");
+LastIndexOfAny:
+csharp
+Copy code
+string str = "Hello World";
+char[] chars = { 'o', 'd' };
+int lastIndex = str.LastIndexOfAny(chars);
+Normalize:
+csharp
+Copy code
+string str = "Möller";
+string normalized = str.Normalize();
+PadLeft:
+csharp
+Copy code
+string str = "Hello";
+string padded = str.PadLeft(10);
+PadRight:
+csharp
+Copy code
+string str = "Hello";
+string padded = str.PadRight(10);
+Remove:
+csharp
+Copy code
+string str = "Hello World";
+string removed = str.Remove(5);
+Replace:
+csharp
+Copy code
+string str = "Hello World";
+string replaced = str.Replace("World", "Universe");
+Split:
+csharp
+Copy code
+string str = "Hello,World,How,Are,You";
+string[] splitArray = str.Split(',');
+StartsWith:
+csharp
+Copy code
+string str = "Hello World";
+bool startsWithHello = str.StartsWith("Hello");
+Substring:
+csharp
+Copy code
+string str = "Hello World";
+string substring = str.Substring(6);
+ToCharArray:
+csharp
+Copy code
+string str = "Hello";
+char[] charArray = str.ToCharArray();
+ToLower:
+csharp
+Copy code
+string str = "Hello World";
+string lowerCase = str.ToLower();
+ToLowerInvariant:
+csharp
+Copy code
+string str = "Hello World";
+string lowerCaseInvariant = str.ToLowerInvariant();
+ToString:
+csharp
+Copy code
+string str = "Hello World";
+string convertedToString = str.ToString();
+ToUpper:
+csharp
+Copy code
+string str = "Hello World";
+string upperCase = str.ToUpper();
+ToUpperInvariant:
+csharp
+Copy code
+string str = "Hello World";
+string upperCaseInvariant = str.ToUpperInvariant();
+Trim:
+csharp
+Copy code
+string str = "   Hello World   ";
+string trimmed = str.Trim();
+TrimEnd:
+csharp
+Copy code
+string str = "   Hello World   ";
+string trimmedEnd = str.TrimEnd();
+TrimStart:
+csharp
+Copy code
+string str = "   Hello World   ";
+string trimmedStart = str.TrimStart();
+Equals:
+csharp
+Copy code
+string str1 = "Hello";
+string str2 = "Hello";
+bool areEqual = string.Equals(str1, str2);
+ReferenceEquals:
+csharp
+Copy code
+string str1 = "Hello";
+string str2 = "Hello";
+bool areSameReference = string.ReferenceEquals(str1, str2);
+These examples demonstrate the usage of each method with different scenarios. Note that some examples may not provide complete functionality and may require additional code to handle exceptions or use the results effectively.
+
+#!csharp
+
+string str1 = "banana"; // banana
+string str2 = "apple"; // apple
+int comparison = string.Compare(str2, str1); 
+
+#!csharp
+
+comparison
