@@ -6,7 +6,7 @@ namespace Printing_Prime_Numbers
     {
         static void Main(string[] args)
         {
-            int nums = 2000;
+            int nums = 100;
             for (int i = 2; i < nums; i++) 
             {
                 bool isPrime = true;
@@ -21,7 +21,7 @@ namespace Printing_Prime_Numbers
                 }
                 if (isPrime)
                 {
-                    Console.WriteLine("{0", i);
+                    Console.WriteLine("{0}",i);
                 }
             }
 
