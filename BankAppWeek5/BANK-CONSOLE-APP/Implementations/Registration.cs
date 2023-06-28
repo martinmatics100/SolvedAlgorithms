@@ -16,7 +16,7 @@ namespace BANK_CONSOLE_APP.Implementations
     public class Registration : IRegistration
     {
         public List<Customer> customers;// = new List<Customer>();
-        private string path = @"C:\Users\Administrator\OneDrive\Desktop\MY PERSONAL PRACTICES\BankAppWeek4\BANK-CONSOLE-APP\bin\Debug\net7.0\martinmatics.txt";
+        private string path = @"C:\Users\Administrator\OneDrive\Desktop\My Local Repo\SolvedAlgorithms\BankAppWeek5\BANK-CONSOLE-APP\bin\Debug\net7.0\martinmatics.txt";
 
         private IValidation _validate;
         private IPrinter _printer;

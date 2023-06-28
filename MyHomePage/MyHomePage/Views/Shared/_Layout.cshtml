@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MyHomePage</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MyHomePage.styles.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand ms-5 fw-bold fs-3" asp-area="" asp-controller="Home" asp-action="Index">Stay<span>cation</span></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-black @*bg-primary" style="border-radius: 10px;*@" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-black @*bg-primary" style="border-radius: 10px;*@" asp-area="" asp-controller="Home" asp-action="Browse_by">Browse by</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-black @*bg-primary" style="border-radius: 10px;*@" asp-area="" asp-controller="Home" asp-action="Stories">Stories</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-black @*bg-primary" style="border-radius: 10px;*@" asp-area="" asp-controller="Home" asp-action="Agents">Agents</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-black @*bg-primary rounded-pill*@ dropdown-toggle dropdown-hover" style="border-radius: 10px;" href="#" id="signupDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Authentication
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="signupDropdown" style="margin-top: 10px;">
+                                <a class="dropdown-item" asp-area="" asp-controller="Register" asp-action="Register">Sign Up</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="Register" asp-action="Login">Sign in</a>
+                            </div>
+                        </li>
+                        @*<li class="nav-item">
+                            <a class="nav-link text-white bg-primary rounded-pill" asp-area="" asp-controller="Register" asp-action="Login">Login</a>
+                        </li>*@
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+                <div class="container">
+                    <div class="container2">
+                        @*<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="index">Stay<span>cation</span></a>*@
+                        <a href="https://localhost:7279/">Stay<span>cation</span></a>
+                        <p>We kaboom your beauty holiday<br />instantly and memorable.</p>
+                    </div>
+                    <div class="container3">
+                        <h6>For Beginners</h6>
+                        <a href="#" style="text-decoration: none;"><p>New Account</p></a>
+                        <a href="#" style="text-decoration: none;"><p>Start booking a Room</p></a>
+                        <a href="#" style="text-decoration: none;"><p>Use payments</p></a>
+                    </div>
+                    <div class="container3">
+                        <h6>Explore Us</h6>
+                        <a href="#" style="text-decoration: none;"><p>Our careers</p></a>
+                        <a href="#" style="text-decoration: none;"><p>Privacy</p></a>
+                        <a href="#" style="text-decoration: none;"><p>Terms & Conditions</p></a>
+                    </div>
+                    <div class="container3">
+                        <h6>Connect Us</h6>
+                        <a href="#" style="text-decoration: none;"><p>support@staycation.id</p></a>
+                        <a href="#" style="text-decoration: none;"><p>021 - 2208 - 1996</p></a>
+                        <a href="#" style="text-decoration: none;"><p>Staycation, Kemang, Jakarta</p></a>
+                    </div>
+        </div>
+        <div class="copyright">
+            <p>Copyright 2019 • All rights reserved • Staycation</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

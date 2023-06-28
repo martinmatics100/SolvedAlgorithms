@@ -1,0 +1,68 @@
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.staticwebassets.runtime.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.exe
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.deps.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.pdb
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.RazorAssemblyInfo.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.RazorAssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets\msbuild.MyHomePage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets\msbuild.build.MyHomePage.props
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyHomePage.props
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyHomePage.props
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\bundle\MyHomePage.styles.css
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\projectbundle\MyHomePage.bundle.scp.css
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\refint\MyHomePage.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.pdb
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\ref\MyHomePage.dll
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\Views\Register\Register.cshtml.rz.scp.css
+C:\Users\Administrator\OneDrive\Desktop\ASP.Net Core MVC\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\Views\Register\Login.cshtml.rz.scp.css
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.staticwebassets.runtime.json
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.exe
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.deps.json
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.dll
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\bin\Debug\net6.0\MyHomePage.pdb
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.RazorAssemblyInfo.cache
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.RazorAssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets\msbuild.MyHomePage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets\msbuild.build.MyHomePage.props
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyHomePage.props
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyHomePage.props
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\Views\Register\Login.cshtml.rz.scp.css
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\Views\Register\Register.cshtml.rz.scp.css
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\bundle\MyHomePage.styles.css
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\scopedcss\projectbundle\MyHomePage.bundle.scp.css
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.dll
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\refint\MyHomePage.dll
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.pdb
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\MyHomePage.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\MyBank\MyHomePage\MyHomePage\obj\Debug\net6.0\ref\MyHomePage.dll

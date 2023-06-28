@@ -1,0 +1,378 @@
+.flex-section[b-82or0rhz69]{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.text-container h1[b-82or0rhz69] {
+    color: #152C5B;
+    margin: 70px 0px 20px 12px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 63px;
+}
+
+.text-container p[b-82or0rhz69] {
+    color: #B0B0B0;
+    margin-left: 12px;
+    margin-bottom: 25px;
+    font-size: 16px;
+    line-height: 170%;
+    font-weight: 300;
+    font-family: 'Poppins';
+    font-style: normal;
+}
+.text-container button[b-82or0rhz69] {
+    margin-left: 12px;
+    padding: 9px 35px 10px 35px;
+}
+button:hover[b-82or0rhz69]{
+    background: #000000;
+    transition: 2s; 
+}
+
+.text-container .logos[b-82or0rhz69]{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 12px;
+}
+.logos p[b-82or0rhz69] {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 170%;
+    color: #B0B0B0;
+    margin-top: 15px;
+    margin-left: 2px;
+    margin-bottom: 70px;
+}
+.logos p span[b-82or0rhz69]{
+    color: #152C5B;
+}
+.image-container[b-82or0rhz69] {
+    margin-top: 70px;
+}
+
+/*.image-container {
+  border-radius: 15px;
+  border-top-left-radius: 80px;
+  overflow: hidden;
+  width: 400px;
+  margin: 50px;
+  height: 380px;
+}*/
+
+.image-container img[b-82or0rhz69] {
+  /*display: block;
+  width: 100%;
+  height: auto;*/
+  margin-left: 50px;
+}
+
+
+/*media querry for section 1*/
+@media only screen and (max-width: 767px) {
+    .flex-section[b-82or0rhz69] {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .image-container[b-82or0rhz69] {
+        width: 100%;
+        margin: 20px;
+    }
+
+    .text-container h1[b-82or0rhz69] {
+        margin: 40px 0 10px 0;
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .text-container p[b-82or0rhz69] {
+        margin-left: 0;
+        margin-bottom: 15px;
+        font-size: 14px;
+        line-height: 150%;
+    }
+
+    .text-container button[b-82or0rhz69] {
+        margin-left: 0;
+        padding: 7px 25px 8px 25px;
+        font-size: 14px;
+    }
+
+    .logos p[b-82or0rhz69] {
+        margin-top: 10px;
+        margin-left: 0;
+        margin-bottom: 40px;
+        font-size: 14px;
+    }
+}
+
+
+
+/*css for section 2*/
+.section1 h6[b-82or0rhz69] {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #152C5B;
+}
+
+.section1[b-82or0rhz69] {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two equal columns */
+  gap: 20px; /* Gap between grid items */
+}
+
+.man[b-82or0rhz69] {
+  grid-column: 1 / 2; /* Span the first column */
+}
+
+.man1[b-82or0rhz69] {
+  grid-column: 2 / 3; /* Span the second column */
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns in man1 */
+  gap: 30px; /* Gap between grid items in man1 */
+}
+
+.man1 div[b-82or0rhz69] {
+  display: flex;
+  justify-content: flex-end; /* Align images to the right within each div */
+}
+
+.man1 img[b-82or0rhz69] {
+  width: 100%; /* Make images take up the available width */
+  height: 300%; /* Maintain image aspect ratio */
+}
+.man1 img[b-82or0rhz69] {
+  max-width: 150%; /* Reduce the maximum width of the images */
+  max-height: 300%; /* Reduce the maximum height of the images */
+ }
+
+/*image at top-right of man*/
+.man[b-82or0rhz69] {
+    position: relative;
+}
+
+.top-text[b-82or0rhz69] {
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #FF498B;
+    padding: 15px 30px 15px 30px;
+    border-radius: 0px 15px;
+}
+
+
+
+
+
+
+/* Mobile responsive styles */
+@media (max-width: 768px) {
+    .section1[b-82or0rhz69] {
+        grid-template-columns: 1fr; /* Display a single column on mobile devices */
+    }
+
+    .man[b-82or0rhz69] {
+        grid-column: 1 / 2; /* Span the first column on mobile devices */
+    }
+
+    .man1[b-82or0rhz69] {
+        grid-column: 1 / 2; /* Span the first column on mobile devices */
+        display: flex; /* Use flexbox for the container */
+        flex-direction: column; /* Display images in a column */
+        align-items: center; /* Align images to the center */
+        gap: 10px; /* Gap between grid items in man1 on mobile devices */
+    }
+}
+
+
+/*css for third section*/
+.section2 h5[b-82or0rhz69] {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #152C5B;
+    margin: 70px 0px 20px 0px;
+}
+
+.section2 .pic[b-82or0rhz69] {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-container5[b-82or0rhz69] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-right: 20px; /* Adjust the spacing between images */
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 300%;
+    width: 100%;
+    margin-top: 3px;
+}
+.image-container5 h6[b-82or0rhz69]{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #152C5B;
+}
+.image-container5 h6 p[b-82or0rhz69]{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    color: #B0B0B0;
+}
+
+.image-container:last-child[b-82or0rhz69] {
+    margin-right: 0; /* Remove margin from the last image */
+}
+/*mobile responsive for section three*/
+@media only screen and (max-width: 767px) {
+    .section2 .pic[b-82or0rhz69] {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .image-container5[b-82or0rhz69] {
+        margin-right: 0;
+        margin-bottom: 20px;
+        width: 100%;
+        height: auto;
+    }
+}
+
+.flex-section9[b-82or0rhz69]{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.image-container4[b-82or0rhz69] {
+    margin-top: 70px;
+}
+.image-container4[b-82or0rhz69] {
+  border-radius: 15px;
+  border-top-left-radius: 80px;
+  overflow: hidden;
+  width: 400px;
+  margin: 50px;
+  /*height: 380px;*/
+  margin-left: 11px;
+}
+
+/*.image-container4 img {
+  display: block;
+  width: 100%;
+  height: auto;
+}*/
+
+.text-container4 h3[b-82or0rhz69] {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 90px;
+    color: #152C5B;
+}
+.star[b-82or0rhz69]{
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+.text-container4 h2[b-82or0rhz69] {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    color: #152C5B;
+    margin-top: 60px;
+}
+.text-container4 p[b-82or0rhz69] {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    color: #B0B0B0;
+    margin-bottom: 50px;
+}
+
+.text-container4 button[b-82or0rhz69] {
+    margin-left: 12px;
+    padding: 9px 35px 10px 35px;
+}
+
+button:hover[b-82or0rhz69] {
+    background: #000000;
+    transition: 2s;
+}
+
+
+@media only screen and (max-width: 767px) {
+    .flex-section9[b-82or0rhz69] {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .image-container4[b-82or0rhz69] {
+        width: 100%;
+        margin: 20px;
+    }
+
+    .text-container4 h3[b-82or0rhz69] {
+        margin: 40px 0 10px 0;
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .text-container4 p[b-82or0rhz69] {
+        margin-left: 0;
+        margin-bottom: 15px;
+        font-size: 14px;
+        line-height: 150%;
+    }
+
+    .text-container4 button[b-82or0rhz69] {
+        margin-left: 0;
+        padding: 7px 25px 8px 25px;
+        font-size: 14px;
+    }
+}
+
+/*for popping up when scrolling*/
+/*also implemented javascript to implement popping up when scrolling*/
+.animate-section[b-82or0rhz69] {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: opacity 1s, transform 1s;
+}
+
+.animate-section.animate[b-82or0rhz69] {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+
+

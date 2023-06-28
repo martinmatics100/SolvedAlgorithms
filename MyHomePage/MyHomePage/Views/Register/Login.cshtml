@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Login";
+}
+
+<section class="section1">
+    <div class="second2">
+        <h2>Sign in</h2>
+
+        <form>
+            <input type="email" id="email" name="email" placeholder="Enter your email address" required><br />
+
+            <input type="password" id="password" name="password" placeholder="Enter your password" required><br />
+            <div class="login">
+                <input type="submit" value="Sign in">
+            </div>
+        </form>
+    </div>
+
+    <div class="second">
+        <img src="~/Images/loginImage.png" alt="login" style="margin-top: 70px; border-radius: 50px;" />
+        </div>
+</section>
+
+<div class="option">
+    <p>-or-</p>
+    <a class="facebook" href="#" onclick="signUpWithFacebook()">Sign in with Facebook</a><br /><br />
+    <a class="google" href="#" onclick="signUpWithGoogle()"> Sign in with Google</a>
+</div>
+
+

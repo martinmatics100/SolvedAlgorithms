@@ -1,0 +1,101 @@
+.section1[b-d45qectvs7]{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 130px;
+    margin-bottom: 20px;
+}
+.second2 h2[b-d45qectvs7] {
+    text-align: center;
+    color: #152C5B;
+    margin-bottom: 40px;
+}
+
+.second2 form label[b-d45qectvs7] {
+    display: block;
+    justify-content: center;
+    width: 120px;
+    text-align: right;
+    font-size: 24px;  
+}
+.second2 form login[b-d45qectvs7]{
+    margin-top: 20px;
+}
+.second2 form input[b-d45qectvs7] {
+    padding: 10px;
+    border-radius: 20px;
+    color: #000000;
+    margin-top: 30px;
+    width: 300px;
+}
+
+.second2 form input:hover[b-d45qectvs7] {
+    background-color: #B0B0B0;
+    transition: 2s;
+}
+
+.input1 input[b-d45qectvs7] {
+    padding: 10px;
+    border-radius: 20px;
+    color: #000000;
+}
+.input1 input:hover[b-d45qectvs7]{
+    background-color: #B0B0B0;
+    transition: 2s;
+}
+
+.option[b-d45qectvs7]{
+    margin-bottom: 100px;
+}
+.option p[b-d45qectvs7]{
+    color: #B0B0B0;
+    font-size: 16px;
+    margin-left: 70px;
+}
+.option a[b-d45qectvs7]{
+    padding: 10px;
+    border-radius: 20px;
+    color: #152C5B;
+    text-decoration: none;
+    margin-left: 40px;
+    font-size: 16px;
+}
+.option p[b-d45qectvs7]{
+    margin-left: 120px;
+}
+.option .facebook[b-d45qectvs7] {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    width: 300px;
+}
+.option .google[b-d45qectvs7] {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    width: 300px;
+}
+.option .facebook:hover[b-d45qectvs7]{
+    color: red;
+}
+.option .google:hover[b-d45qectvs7]{
+    color: red;
+}
+
+@media only screen and (max-width : 768px) {
+
+    .section1[b-d45qectvs7] {
+        flex-direction: column-reverse;
+        align-items: center;
+        margin-top: 50%;
+        margin-bottom: auto;
+        text-align: center;
+        justify-content: center;
+        height: auto;
+        width: auto;
+        position: relative;
+        top: auto;
+        left: auto;
+        right: auto;
+        bottom: auto;
+    }
+}
