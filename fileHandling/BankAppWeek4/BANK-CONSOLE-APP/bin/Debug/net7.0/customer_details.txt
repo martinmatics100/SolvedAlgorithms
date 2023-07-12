@@ -1,0 +1,8 @@
+FirstName: Martin
+LastName: Nwatu
+Fullname: Martin Nwatu
+Email: martin@gmail.com
+AccountNumber: 1447685559
+AccountType: Savings Account
+Balance: 0
+

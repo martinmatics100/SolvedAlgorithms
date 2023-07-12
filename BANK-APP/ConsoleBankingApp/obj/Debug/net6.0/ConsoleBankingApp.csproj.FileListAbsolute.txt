@@ -1,0 +1,45 @@
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.exe
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.deps.json
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.runtimeconfig.json
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.dll
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.pdb
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.csproj.AssemblyReference.cache
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.AssemblyInfoInputs.cache
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.AssemblyInfo.cs
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.dll
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\obj\Debug\net6.0\refint\ConsoleBankingApp.dll
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.pdb
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.genruntimeconfig.cache
+C:\Users\Decagon Laptop\source\repos\ConsoleBankingApp\ConsoleBankingApp\obj\Debug\net6.0\ref\ConsoleBankingApp.dll
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.exe
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.deps.json
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.dll
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.pdb
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.dll
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\obj\Debug\net6.0\refint\ConsoleBankingApp.dll
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.pdb
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\test codes\Moon\ConsoleBankingApp\obj\Debug\net6.0\ref\ConsoleBankingApp.dll
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.exe
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.deps.json
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.dll
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\bin\Debug\net6.0\ConsoleBankingApp.pdb
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.dll
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\obj\Debug\net6.0\refint\ConsoleBankingApp.dll
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.pdb
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\obj\Debug\net6.0\ConsoleBankingApp.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\BANK-APP\ConsoleBankingApp\obj\Debug\net6.0\ref\ConsoleBankingApp.dll

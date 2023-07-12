@@ -1,0 +1,9 @@
+C:\Users\Administrator\OneDrive\Desktop\MyBank\ConsoleBankApp.Core\bin\Debug\ConsoleBankApp.Core.dll
+C:\Users\Administrator\OneDrive\Desktop\MyBank\ConsoleBankApp.Core\bin\Debug\ConsoleBankApp.Core.pdb
+C:\Users\Administrator\OneDrive\Desktop\MyBank\ConsoleBankApp.Core\bin\Debug\ConsoleBankApp.Data.dll
+C:\Users\Administrator\OneDrive\Desktop\MyBank\ConsoleBankApp.Core\bin\Debug\ConsoleBankApp.Data.pdb
+C:\Users\Administrator\OneDrive\Desktop\MyBank\ConsoleBankApp.Core\obj\Debug\ConsoleBankApp.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\MyBank\ConsoleBankApp.Core\obj\Debug\ConsoleBankApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\MyBank\ConsoleBankApp.Core\obj\Debug\ConsoleBankApp.Core.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\Desktop\MyBank\ConsoleBankApp.Core\obj\Debug\ConsoleBankApp.Core.dll
+C:\Users\Administrator\OneDrive\Desktop\MyBank\ConsoleBankApp.Core\obj\Debug\ConsoleBankApp.Core.pdb

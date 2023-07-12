@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/WaPBRnX23arIo5rI+vVN3AV0JJ9uDw+GF0nucOpGxZO653tcJo1uPYR/0hOgUlBQkXkys61ctCMUaDPIX7aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\fileHandling\\BankAppWeek4\\BANK-CONSOLE-APP\\BANK-CONSOLE-APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
