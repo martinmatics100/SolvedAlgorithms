@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\OneDrive\\Desktop\\Local Repo\\Git Repository\\SolvedAlgorithms\\swap two numbers\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\swap two numbers\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\OneDrive\\Desktop\\Local Repo\\Git Repository\\SolvedAlgorithms\\swap two numbers\\ConsoleApp1.csproj": {
+    "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\swap two numbers\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Local Repo\\Git Repository\\SolvedAlgorithms\\swap two numbers\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\swap two numbers\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Local Repo\\Git Repository\\SolvedAlgorithms\\swap two numbers\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\swap two numbers\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Local Repo\\Git Repository\\SolvedAlgorithms\\swap two numbers\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\swap two numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

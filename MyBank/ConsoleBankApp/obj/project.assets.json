@@ -5605,11 +5605,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyBank\\ConsoleBankApp\\ConsoleBankApp.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\MyBank\\ConsoleBankApp\\ConsoleBankApp.csproj",
       "projectName": "ConsoleBankApp",
-      "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyBank\\ConsoleBankApp\\ConsoleBankApp.csproj",
+      "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\MyBank\\ConsoleBankApp\\ConsoleBankApp.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyBank\\ConsoleBankApp\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\MyBank\\ConsoleBankApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5631,8 +5631,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyBank\\ConsoleBankApp.Core\\ConsoleBankApp.Core.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\MyBank\\ConsoleBankApp.Core\\ConsoleBankApp.Core.csproj"
+            "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\MyBank\\ConsoleBankApp.Core\\ConsoleBankApp.Core.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\My Local Repo\\SolvedAlgorithms\\MyBank\\ConsoleBankApp.Core\\ConsoleBankApp.Core.csproj"
             }
           }
         }
@@ -5672,7 +5672,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
